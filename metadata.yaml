@@ -1,0 +1,31 @@
+_repo: Viimeinen-laiva-b-Kolminaytoksinen-naytelma_74775
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+    wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+description: ''
+gutenberg_issued: '2024-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74775'
+language: fi
+pgterms:marc905: 20240104095112talvio
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Viimeinen laiva : $b Kolminäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/74775
